@@ -1,3 +1,5 @@
+## KEY - Some of the pieces here, but this code does not run
+
 # JavaScript_Classwork4_If2
 ### Create a new file for each exercise
 
